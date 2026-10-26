@@ -1,0 +1,7 @@
+PackWright
+MIT License, see LICENSE.
+
+Third-party material in reference/:
+
+- Schemas are compiled from vanilla-mcdoc by SpyglassMC (https://github.com/SpyglassMC/vanilla-mcdoc), MIT License, Copyright (c) 2022 SpyglassMC.
+- The command tree, registries, block states, item components, tags, translations and vanilla data files for Minecraft Java Edition 1.21.8 are generated from the game by misode/mcmeta (https://github.com/misode/mcmeta). Minecraft is a trademark of Mojang Synergies AB; this data belongs to Mojang and is provided for reference under the Minecraft EULA and Usage Guidelines. PackWright is not affiliated with Mojang or Microsoft.
